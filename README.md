@@ -4,7 +4,7 @@
 </div>
 <div id="socials" align="center">
 <a href="https://www.linkedin.com/in/olga-yevtyunina-a3a81057/">
-  <img src="https://www.flaticon.com/free-icon/linkedin_4494497?term=social+media&page=1&position=53&origin=tag&related_id=4494497" alt="LinkedIn"/>
+  <img src="https://icons8.com/icon/13930/linkedin"/>
 </a>
 <a href="https://www.linkedin.com/in/olga-yevtyunina-a3a81057/">
   <img src="https://www.flaticon.com/free-icon/linkedin_4494497?term=social+media&page=1&position=53&origin=tag&related_id=4494497" alt="LinkedIn"/>
