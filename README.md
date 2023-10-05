@@ -29,6 +29,9 @@
     <a href="https://t.me/OlyaYevtyunina" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+        <a href="https://wa.me/79774265299" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/11515/11515868.png" width="40" height="40" alt="whatsaap" />
+    </a>
 </div>
 
 
