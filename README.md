@@ -1,6 +1,6 @@
 - QA Engineer from Kazakhstan based in Moscow.
 - I am experienced in web & mobile applications manual testing. I am passionate about quality and am dedicated to delivering software that meets or exceeds customer expectations. 
-- 🌱I continually update my skills and stay current with industry trends and that’s why I’m currently learning automation using:
+- 🌱I’m currently learning automation using:
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
