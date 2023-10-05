@@ -10,7 +10,6 @@
   
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/swagger-%234ea94b.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%234ea94b.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-%234ea94b.svg?style=for-the-badge&logo=ChromeDevTools&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +25,7 @@
 <div align="center">
 
 ![Confluence](https://img.shields.io/badge/confluence-%234ea94b.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%234ea94b.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TestMonitor](https://img.shields.io/badge/testmonitor-%234ea94b.svg?style=for-the-badge&logo=testmonitor&logoColor=white)  
 </div> 
 
