@@ -24,8 +24,8 @@
 <h3 align="center">Testing Docmentation:</h3>
 <div align="center">
 
-![Confluence](https://img.shields.io/badge/confluence-%234ea94b.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%234ea94b.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%231572B6.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%231572B6.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TestMonitor](https://img.shields.io/badge/testmonitor-%234ea94b.svg?style=for-the-badge&logo=testmonitor&logoColor=white)  
 </div> 
 
