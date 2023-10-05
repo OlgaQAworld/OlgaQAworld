@@ -22,17 +22,23 @@
 
 <div align="center">
 
+
  
-   <a href="https://www.linkedin.com/in/olga-yevtyunina-a3a81057/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/OlyaYevtyunina" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-        <a href="https://wa.me/79774265299" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/11515/11515868.png" width="40" height="40" alt="whatsaap" />
-    </a>
+<a href="mailto:olyayevtyunina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/OlgaQAworld" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://www.linkedin.com/in/olga-yevtyunina-a3a81057/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+<a href="https://t.me/OlyaYevtyunina" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram  />
+</a> 
 </div>
+
+ 
+
 
 
 My latest work
