@@ -7,8 +7,8 @@
 - [Download my resume](https://drive.google.com/file/d/1OW814QIveV4AbuRsAtvvmna6GpO40dB1/view?usp=sharing).
 
 
-<h3 align="center">Skills and Tools:</h3>
-<div align="center">
+<h3>Skills and Tools:</h3>
+<div>
   
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/swagger-%234ea94b.svg?style=for-the-badge&logo=swagger&logoColor=white)
@@ -23,24 +23,24 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
-<h3 align="center">Testing Docmentation:</h3>
-<div align="center">
+<h3>Testing Docmentation:</h3>
+<div>
 
 ![Confluence](https://img.shields.io/badge/confluence-%231572B6.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%231572B6.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TestMonitor](https://img.shields.io/badge/testmonitor-%234ea94b.svg?style=for-the-badge&logo=testmonitor&logoColor=white)  
 </div> 
 
-<h3 align="center">Work with Code:</h3>
-<div align="center">
+<h3>Work with Code:</h3>
+<div>
 
 ![VSCODE](https://img.shields.io/badge/vscode-%231572B6.svg?style=for-the-badge&logo=vscode&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%2361DAFB)
 </div> 
 
-<h3 align="center">Contact Me:</h3>
+<h3>Contact Me:</h3>
 
-<div align="center">
+<div>
 
 <a href="mailto:olyayevtyunina@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -55,11 +55,22 @@
 </a> 
 </div>
 
- <h3 align="center">Examples of my work:</h3>
+ <h3>Examples of my work:</h3>
  <div>
-   - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing).
    
+ - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing)
+ - [Test-case-teamwork](https://docs.google.com/spreadsheets/d/1CMXWlYc1VeqBqQxsrmiAJGcWM2AGSGG7Xa3CT0O1z28/edit?usp=sharing)
+ - [Check-list 1](https://docs.google.com/spreadsheets/d/1Vp7LoLD8kXLUF0RhRTz_6cbHxh3tKoRMZnFkdoUEGrw/edit?usp=sharing)
+ - [Check-list 2](https://docs.google.com/document/d/1Fcrp-6LXirkMuOAh2cc26C3B4qaegjNbDtSk5l9H7Fs/edit?usp=sharing)
+ - [Test design](https://drive.google.com/file/d/1wMMhi9Z_d4bL0od_avBGy5vYkaytc19W/view?usp=sharing)
+ - [Bug report 1](https://docs.google.com/spreadsheets/d/1ak7nX7TWjZ8mPW8HqXlNuSFpKsGu56vGQmiklQreWgU/edit?usp=sharing)
+ - [Bug report + check list](https://docs.google.com/spreadsheets/d/1lUsXoreM9jn2MACGAx73i2gXUXAt0oO70JZZKJGgwPY/edit?usp=sharing)
+ - [Testing report](https://docs.google.com/document/d/1_xmZzVTad6VP_RJ5H2L_yRnS119nuu6AvbRDm3Xw9NU/edit?usp=sharing)
+ - [Exploratory testing "Tour Fedex"](https://drive.google.com/file/d/1U7hO1TzNg6i-TIhSipYAMnwjLzW2Ym_X/view?usp=sharing)
+  
  </div>
+
+ 
  
  
 
