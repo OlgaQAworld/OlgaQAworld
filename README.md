@@ -57,6 +57,8 @@
 
  <h3>Examples of my work:</h3>
  <div>
+
+ __Manual testing__
    
  - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing)
  - [Test-case-teamwork](https://docs.google.com/spreadsheets/d/1CMXWlYc1VeqBqQxsrmiAJGcWM2AGSGG7Xa3CT0O1z28/edit?usp=sharing)
@@ -67,8 +69,21 @@
  - [Bug report + check list](https://docs.google.com/spreadsheets/d/1lUsXoreM9jn2MACGAx73i2gXUXAt0oO70JZZKJGgwPY/edit?usp=sharing)
  - [Testing report](https://docs.google.com/document/d/1_xmZzVTad6VP_RJ5H2L_yRnS119nuu6AvbRDm3Xw9NU/edit?usp=sharing)
  - [Exploratory testing "Tour Fedex"](https://drive.google.com/file/d/1U7hO1TzNg6i-TIhSipYAMnwjLzW2Ym_X/view?usp=sharing)
-  
+
+ __Rest Api testing__
+  - [API collection testing](https://drive.google.com/file/d/1KRznwOX7LimZsafeHf-9JkzB-hTh5cqU/view?usp=sharing)
+    
+ __SQL__
+
+  - Have knowledge how to write simple quires using SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
+  - [Examples](https://docs.google.com/spreadsheets/d/1NkJY7gMgvUNX5q3ma6WMOuZA649s_JDl/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
  </div>
+ 
+
+
+
+
+ 
 
  
  
