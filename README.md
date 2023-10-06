@@ -1,5 +1,6 @@
 - QA Engineer from Kazakhstan based in Moscow.
-- I am experienced in web & mobile applications manual testing. I am passionate about quality and am dedicated to delivering software that meets or exceeds customer expectations. 
+- I am a positive-thinking person who love to communicate with people and solve problems.
+I am experienced in web & mobile applications manual testing. I am passionate about quality and am dedicated to delivering software that meets or exceeds customer expectations. 
 - 🌱I’m currently learning automation using:
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=selenium&logoColor=white)
@@ -38,22 +39,6 @@
 ![IntelliJIDEA](https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%2361DAFB)
 </div> 
 
-<h3>Contact Me:</h3>
-
-<div>
-
-<a href="mailto:olyayevtyunina@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/OlgaQAworld" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
-</a>
-<a href="https://www.linkedin.com/in/olga-yevtyunina-a3a81057/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
-</a>  
-<a href="https://t.me/OlyaYevtyunina" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram  />
-</a> 
-</div>
 
  <h3>Examples of my work:</h3>
  <div>
@@ -71,14 +56,34 @@
  - [Exploratory testing "Tour Fedex"](https://drive.google.com/file/d/1U7hO1TzNg6i-TIhSipYAMnwjLzW2Ym_X/view?usp=sharing)
 
  __Rest Api testing__
-  - [API collection testing](https://drive.google.com/file/d/1KRznwOX7LimZsafeHf-9JkzB-hTh5cqU/view?usp=sharing)
+
+ - I know how to test Rest Api using methods GET, POST, PUT, DELETE
+ - I know how to test using parameters
+ - I know how to test headings
+ - [API collection testing](https://drive.google.com/file/d/1KRznwOX7LimZsafeHf-9JkzB-hTh5cqU/view?usp=sharing)
     
  __SQL__
 
   - Have knowledge how to write simple quires using SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
   - [Examples](https://docs.google.com/spreadsheets/d/1NkJY7gMgvUNX5q3ma6WMOuZA649s_JDl/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
  </div>
- 
+
+ <h3>Get in touch with me:</h3>
+
+<div>
+
+<a href="mailto:olyayevtyunina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/OlgaQAworld" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://www.linkedin.com/in/olga-yevtyunina-a3a81057/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+<a href="https://t.me/OlyaYevtyunina" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram  />
+</a> 
+</div>
 
 
 
