@@ -4,6 +4,8 @@
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- [Download my resume](https://drive.google.com/file/d/1OW814QIveV4AbuRsAtvvmna6GpO40dB1/view?usp=sharing).
+
 
 <h3 align="center">Skills and Tools:</h3>
 <div align="center">
@@ -53,12 +55,14 @@
 </a> 
 </div>
 
+ <h3 align="center">Examples of my work:</h3>
+ <div>
+   - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing).
+   
+ </div>
+ 
  
 
 
 
-My latest work
 
-Languages and Tools
-
-Get in touch with me
