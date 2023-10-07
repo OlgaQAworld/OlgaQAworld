@@ -1,5 +1,5 @@
 
-![Hello there](https://github.com/OlgaQAworld/OlgaQAworld/assets/146815272/4a1760d0-7a8c-4529-b3c7-86dea4ca2f6c)
+![Hello there](https://github.com/OlgaQAworld/OlgaQAworld/assets/146815272/1f7f0a06-f62c-4f9b-acca-dd23b34d6229)
 
 
 - QA Engineer from Kazakhstan based in Moscow.
