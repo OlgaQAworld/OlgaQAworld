@@ -1,5 +1,6 @@
 
-https://github.com/OlgaQAworld/OlgaQAworld/assets/146815272/0481dff4-8ebb-44a6-8a8c-31eec495457f
+![Hello there](https://github.com/OlgaQAworld/OlgaQAworld/assets/146815272/df667486-429d-40e6-8f1b-bb277d534bde)
+
 
 - QA Engineer from Kazakhstan based in Moscow.
 - I am a positive-thinking person who love to communicate with people and solve problems.
