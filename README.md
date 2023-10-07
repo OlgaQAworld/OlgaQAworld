@@ -65,7 +65,7 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
  - I know how to test Rest Api using methods such as GET, POST, PUT, DELETE
  - I know how to test using parameters
  - I know how to test headings
- - [API collection testing](https://drive.google.com/file/d/1KRznwOX7LimZsafeHf-9JkzB-hTh5cqU/view?usp=sharing)
+ - [API collection testing](https://github.com/OlgaQAworld/Postman_API_sploteam)
     
  __SQL__
 
