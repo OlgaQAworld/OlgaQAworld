@@ -2,8 +2,8 @@
 ![Hello there](https://github.com/OlgaQAworld/OlgaQAworld/assets/146815272/1f7f0a06-f62c-4f9b-acca-dd23b34d6229)
 
 
-- QA Engineer from Kazakhstan based in Moscow.
-- I am a positive-thinking person who love to communicate with people and solve problems.
+- I am a QA Engineer from Kazakhstan based in Moscow.
+- I am a positive-thinking person who loves to communicate with people and solve problems.
 I am experienced in web & mobile applications manual testing. I am passionate about quality and am dedicated to delivering software that meets or exceeds customer expectations. 
 - 🌱I’m currently learning automation using:
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB)
@@ -49,26 +49,27 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 
  __Manual testing__
    
- - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing)
- - [Test-case-teamwork](https://docs.google.com/spreadsheets/d/1CMXWlYc1VeqBqQxsrmiAJGcWM2AGSGG7Xa3CT0O1z28/edit?usp=sharing)
- - [Check-list 1](https://docs.google.com/spreadsheets/d/1Vp7LoLD8kXLUF0RhRTz_6cbHxh3tKoRMZnFkdoUEGrw/edit?usp=sharing)
- - [Check-list 2](https://docs.google.com/document/d/1Fcrp-6LXirkMuOAh2cc26C3B4qaegjNbDtSk5l9H7Fs/edit?usp=sharing)
- - [Test design](https://drive.google.com/file/d/1wMMhi9Z_d4bL0od_avBGy5vYkaytc19W/view?usp=sharing)
  - [Bug report 1](https://docs.google.com/spreadsheets/d/1ak7nX7TWjZ8mPW8HqXlNuSFpKsGu56vGQmiklQreWgU/edit?usp=sharing)
  - [Bug report + check list](https://docs.google.com/spreadsheets/d/1lUsXoreM9jn2MACGAx73i2gXUXAt0oO70JZZKJGgwPY/edit?usp=sharing)
- - [Testing report](https://docs.google.com/document/d/1_xmZzVTad6VP_RJ5H2L_yRnS119nuu6AvbRDm3Xw9NU/edit?usp=sharing)
+ - [Check-list 1](https://docs.google.com/spreadsheets/d/1Vp7LoLD8kXLUF0RhRTz_6cbHxh3tKoRMZnFkdoUEGrw/edit?usp=sharing)
+ - [Check-list 2](https://docs.google.com/document/d/1Fcrp-6LXirkMuOAh2cc26C3B4qaegjNbDtSk5l9H7Fs/edit?usp=sharing)
  - [Exploratory testing "Tour Fedex"](https://drive.google.com/file/d/1U7hO1TzNg6i-TIhSipYAMnwjLzW2Ym_X/view?usp=sharing)
+ - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing)
+ - [Test-case-teamwork](https://docs.google.com/spreadsheets/d/1CMXWlYc1VeqBqQxsrmiAJGcWM2AGSGG7Xa3CT0O1z28/edit?usp=sharing)
+ - [Test design](https://drive.google.com/file/d/1wMMhi9Z_d4bL0od_avBGy5vYkaytc19W/view?usp=sharing)
+ - [Testing report](https://docs.google.com/document/d/1_xmZzVTad6VP_RJ5H2L_yRnS119nuu6AvbRDm3Xw9NU/edit?usp=sharing)
+
 
  __Rest Api testing__
 
- - I know how to test Rest Api using methods GET, POST, PUT, DELETE
+ - I know how to test Rest Api using methods such as GET, POST, PUT, DELETE
  - I know how to test using parameters
  - I know how to test headings
  - [API collection testing](https://drive.google.com/file/d/1KRznwOX7LimZsafeHf-9JkzB-hTh5cqU/view?usp=sharing)
     
  __SQL__
 
-  - Have knowledge how to write simple quires using SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
+  - I have knowledge of how to write simple quires using SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
   - [Examples](https://docs.google.com/spreadsheets/d/1NkJY7gMgvUNX5q3ma6WMOuZA649s_JDl/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
  </div>
 
