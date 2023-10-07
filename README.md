@@ -1,3 +1,6 @@
+
+https://github.com/OlgaQAworld/OlgaQAworld/assets/146815272/0481dff4-8ebb-44a6-8a8c-31eec495457f
+
 - QA Engineer from Kazakhstan based in Moscow.
 - I am a positive-thinking person who love to communicate with people and solve problems.
 I am experienced in web & mobile applications manual testing. I am passionate about quality and am dedicated to delivering software that meets or exceeds customer expectations. 
