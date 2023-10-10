@@ -5,7 +5,7 @@
 - I am a QA Engineer from Kazakhstan based in Moscow.
 - I am a positive-thinking person who loves to communicate with people and solve problems.
 I am experienced in web & mobile applications manual testing. I am passionate about quality and am dedicated to delivering software that meets or exceeds customer expectations. 
-- 🌱I’m currently learning automation using:
+- 🌱I am currently learning automation using:
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -70,7 +70,7 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
     
  __SQL__
 
-  - I have knowledge of how to write simple quires using SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
+  - I have knowledge of how to write simple queries using SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
   - [Examples](https://docs.google.com/spreadsheets/d/1NkJY7gMgvUNX5q3ma6WMOuZA649s_JDl/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
 
 __Задача__
