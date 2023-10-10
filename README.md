@@ -9,7 +9,8 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB)
 ![Selenium](https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- [Download my resume](https://drive.google.com/file/d/1OW814QIveV4AbuRsAtvvmna6GpO40dB1/view?usp=sharing).
+- [Скачать моё резюме на Русском](https://drive.google.com/file/d/1OW814QIveV4AbuRsAtvvmna6GpO40dB1/view?usp=sharing).
+- [Download my resume in English](https://drive.google.com/file/d/1ka71bZlESxYWvXJyvV_aLwgmYW_vQ26D/view?usp=sharing).
 
 
 <h3>Skills and Tools:</h3>
