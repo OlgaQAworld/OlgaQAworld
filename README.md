@@ -52,14 +52,14 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 
  __Manual testing__
    
- - [Bug report](https://github.com/OlgaQAworld/OlgaQAworld/files/13278912/-.xlsx)
- - [Test Scenario](https://github.com/OlgaQAworld/OlgaQAworld/files/13278752/-.docx)
- - [Test Plan](https://github.com/OlgaQAworld/OlgaQAworld/files/13278715/-.docx)
- - [Pre-release checklist](https://github.com/OlgaQAworld/OlgaQAworld/files/13278640/default.docx)
- - [Test-cases](https://github.com/OlgaQAworld/OlgaQAworld/files/13278877/Test-cases.game.creation.xlsx)
- - [Testing report](https://github.com/OlgaQAworld/OlgaQAworld/files/13278952/QA.-.Testing.report.Check.list.Bug.report.docx)
- - [Test design](https://github.com/OlgaQAworld/OlgaQAworld/files/13278986/-.pdf)
- - [Exploratory testing "Tour Fedex"](https://github.com/OlgaQAworld/OlgaQAworld/files/13278978/sploteam.docx)
+ - [Bug report](https://docs.google.com/spreadsheets/d/1ak7nX7TWjZ8mPW8HqXlNuSFpKsGu56vGQmiklQreWgU/edit?usp=sharing)
+ - [Test Scenario](https://docs.google.com/document/d/15G6X8enatoYyZHgebDm_UMq2igBvLAcJ/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
+ - [Test Plan](https://docs.google.com/document/d/1Nj6DqNOGjzRAovWbNYhnpMGgjUdqSerJ/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
+ - [Pre-release checklist](https://docs.google.com/document/d/1xk_KOcv28S3EWAYbGTWrU7nlfBdY0XhM/edit?usp=sharing&ouid=115672572273097717847&rtpof=true&sd=true)
+ - [Test-cases](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing)
+ - [Testing report](https://docs.google.com/document/d/1_xmZzVTad6VP_RJ5H2L_yRnS119nuu6AvbRDm3Xw9NU/edit?usp=sharing)
+ - [Test design](https://drive.google.com/file/d/1RDHsYwS6ciNLUkIqdlQpKInR0HlGbWCM/view?usp=sharing)
+ - [Exploratory testing "Tour Fedex"](https://docs.google.com/document/d/1JRZK70QqYmt8xiHFuzg3sX6nSmml9ZZfNSrj3YDT6dw/edit?usp=sharing)
 
 
  __Rest Api testing__
