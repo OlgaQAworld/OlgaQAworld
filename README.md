@@ -17,7 +17,6 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 <div>
   
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/swagger-%234ea94b.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![ChromeDevTools](https://img.shields.io/badge/ChromeDevTools-%234ea94b.svg?style=for-the-badge&logo=ChromeDevTools&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,8 +24,6 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
 <h3>Testing Docmentation:</h3>
@@ -34,6 +31,7 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 
 ![Confluence](https://img.shields.io/badge/confluence-%231572B6.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%231572B6.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%234ea94b.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![TestMonitor](https://img.shields.io/badge/testmonitor-%234ea94b.svg?style=for-the-badge&logo=testmonitor&logoColor=white)  
 </div> 
 
@@ -42,23 +40,26 @@ I am experienced in web & mobile applications manual testing. I am passionate ab
 
 ![VSCODE](https://img.shields.io/badge/vscode-%231572B6.svg?style=for-the-badge&logo=vscode&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%2361DAFB)
-</div> 
+
+
+
+
 
 
  <h3>Examples of my work:</h3>
  <div>
 
+
  __Manual testing__
    
- - [Bug report 1](https://docs.google.com/spreadsheets/d/1ak7nX7TWjZ8mPW8HqXlNuSFpKsGu56vGQmiklQreWgU/edit?usp=sharing)
- - [Bug report + check list](https://docs.google.com/spreadsheets/d/1lUsXoreM9jn2MACGAx73i2gXUXAt0oO70JZZKJGgwPY/edit?usp=sharing)
- - [Check-list 1](https://docs.google.com/spreadsheets/d/1Vp7LoLD8kXLUF0RhRTz_6cbHxh3tKoRMZnFkdoUEGrw/edit?usp=sharing)
- - [Check-list 2](https://docs.google.com/document/d/1Fcrp-6LXirkMuOAh2cc26C3B4qaegjNbDtSk5l9H7Fs/edit?usp=sharing)
- - [Exploratory testing "Tour Fedex"](https://drive.google.com/file/d/1U7hO1TzNg6i-TIhSipYAMnwjLzW2Ym_X/view?usp=sharing)
- - [Test-case](https://docs.google.com/spreadsheets/d/1eDeeOPH_Lhdn3Yv2D-gdR8vNqMyvMrTmD1dvg8h_AL0/edit?usp=sharing)
- - [Test-case-teamwork](https://docs.google.com/spreadsheets/d/1CMXWlYc1VeqBqQxsrmiAJGcWM2AGSGG7Xa3CT0O1z28/edit?usp=sharing)
- - [Test design](https://drive.google.com/file/d/1wMMhi9Z_d4bL0od_avBGy5vYkaytc19W/view?usp=sharing)
- - [Testing report](https://docs.google.com/document/d/1_xmZzVTad6VP_RJ5H2L_yRnS119nuu6AvbRDm3Xw9NU/edit?usp=sharing)
+ - [Bug report](https://github.com/OlgaQAworld/OlgaQAworld/files/13278912/-.xlsx)
+ - [Test Scenario](https://github.com/OlgaQAworld/OlgaQAworld/files/13278752/-.docx)
+ - [Test Plan](https://github.com/OlgaQAworld/OlgaQAworld/files/13278715/-.docx)
+ - [Pre-release checklist](https://github.com/OlgaQAworld/OlgaQAworld/files/13278640/default.docx)
+ - [Test-cases](https://github.com/OlgaQAworld/OlgaQAworld/files/13278877/Test-cases.game.creation.xlsx)
+ - [Testing report](https://github.com/OlgaQAworld/OlgaQAworld/files/13278952/QA.-.Testing.report.Check.list.Bug.report.docx)
+ - [Test design](https://github.com/OlgaQAworld/OlgaQAworld/files/13278986/-.pdf)
+ - [Exploratory testing "Tour Fedex"](https://github.com/OlgaQAworld/OlgaQAworld/files/13278978/sploteam.docx)
 
 
  __Rest Api testing__
